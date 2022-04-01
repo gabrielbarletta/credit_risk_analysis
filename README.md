@@ -27,3 +27,4 @@ Credit risk is no easy task to predict. In this challenge we will take a closer 
 
 
 ## Summary
+For the first 4 models we over sampled, undersampled and tried doing a combination of both in order to determine which is the best to predict loans at high risk. I recommend the ensemble classifiers over the first four models.
