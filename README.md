@@ -5,7 +5,7 @@ Credit risk is no easy task to predict. In this challenge we will take a closer 
 
 ## Results
 
--
+-Naive Random Oversampling results:
 
 
 
